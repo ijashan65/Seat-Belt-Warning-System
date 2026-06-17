@@ -3,6 +3,9 @@
 ## Objective
 Detect whether the seat belt is fastened and provide a warning using LED and buzzer when the belt is not worn.
 
+##Link
+https://www.tinkercad.com/things/aWtTaQ5FqQu-seat-belt-occupation-warning?sharecode=cmPBvRZvHaJLjAhe4KfalU60wmmgNRJUEgAXkaVC450
+
 ## Components Used
 - Arduino Uno
 - Push Button
